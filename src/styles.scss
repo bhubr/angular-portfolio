@@ -17,6 +17,9 @@ body {
 .card img {
   border-top-left-radius: .5em;
   border-top-right-radius: .5em;
+  height: 15vw;
+  width: 100%;
+  object-fit: cover;
 }
 
 .card-body {
