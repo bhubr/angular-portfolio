@@ -1,0 +1,27 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  background: #333;
+  color: #eee;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+ul li a {
+  display: inline-block;
+  color: #8bd;
+  text-decoration: none;
+  padding: 1em;
+}
+
+ul li .brand {
+  color: #eee;
+}
