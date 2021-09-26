@@ -1,0 +1,28 @@
+.card {
+  background: #333;
+}
+
+img {
+  max-width: 100%;
+}
+
+h3 {
+  margin: 0 0 .5em 0;
+}
+
+button {
+  background: #333;
+  color: #3F7A7D;
+  border: 1px solid #3F7A7D;
+  border-radius: .25em;
+  padding: .25em 1em;
+}
+
+.tag {
+  font-size: small;
+  display: inline-block;
+  border-radius: .25em;
+  padding: .125em .5em;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  margin-right: .5em;
+}
